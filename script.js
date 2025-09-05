@@ -160,7 +160,7 @@ const QUOTES = [
   album: "Felicilandia",
   year: 2021,
   cover: "portadas/felicilandia.jpg",
-  url: "https://open.spotify.com/track/3r1jQfJ2v0x4Bjq1FJkiDq"
+  url: "https://open.spotify.com/intl-es/track/0TzPApPjiPWXv98qSCrgbp?si=806c98315088435d"
 },
 {
   text: "Siempre que sale 11:11 me dan ganas de textear",
@@ -169,9 +169,260 @@ const QUOTES = [
   album: "Felicilandia",
   year: 2021,
   cover: "portadas/felicilandia.jpg",
-  url: "https://open.spotify.com/track/3r1jQfJ2v0x4Bjq1FJkiDq"
+  url: "https://open.spotify.com/intl-es/track/0TzPApPjiPWXv98qSCrgbp?si=806c98315088435d"
 },
-
+{
+  text: "¿Cómo quieres que te quiera si no estás aquí?",
+  song: "Nunca Estoy",
+  artist: "C. Tangana",
+  album: "El Madrileño",
+  year: 2021,
+  cover: "portadas/el-madrileno.jpg",
+  url: "https://open.spotify.com/intl-es/track/6N4ioa3XSbvjmwdVEERl8F?si=44b3d77b201d4f08"
+},
+{
+  text: "Lo malo siempre se sabe y lo bueno nunca se cuenta",
+  song: "Andrea",
+  artist: "Bad Bunny, Buscabulla",
+  album: "Un Verano Sin Ti",
+  year: 2022,
+  cover: "portadas/un-verano-sin-ti.jpg",
+  url: "https://open.spotify.com/intl-es/track/44XjoNvtwevktFKjvVe1vH?si=f694da16137b4cd3"
+},
+{
+  text: "Me siento roto, me siento solo y no me puedo arrepentir",
+  song: "Mientras Duermes",
+  artist: "Junior H",
+  album: "$ad Boyz 4 Life II",
+  year: 2023,
+  cover: "portadas/$ad-Boyz-4-Life-II.jpg",
+  url: "https://open.spotify.com/intl-es/track/4e76Ss3ji7HQZ4qwcPNkNA?si=2d11e5a0be2f4522"
+},
+{
+  text: "800 días bastaron pa, pa cambiar mi vida de abajo p'arriba",
+  song: "Clave Ali",
+  artist: "Junior H",
+  album: "Cruisin' with Junior H",
+  year: 2020,
+  cover: "portadas/cruisin-with-Junior-H.jpg",
+  url: "https://open.spotify.com/intl-es/track/0rSlb6Ng6JobokQUPngjRE?si=ffa0ec0be1f04e0b"
+},
+{
+  text: "The distance and the time between us, It'll never change my mind, 'cause baby I would die for you",
+  song: "Die For You",
+  artist: "The Weeknd",
+  album: "Starboy",
+  year: 2016,
+  cover: "portadas/starboy.jpg",
+  url: "https://open.spotify.com/intl-es/track/2LBqCSwhJGcFQeTHMVGwy3?si=b87e37be9b664d8d"
+},
+{
+  text: "Viajé 1004 kilómetros pa verte, no será para siempre, un día volveré a verte",
+  song: "1004 KM",
+  artist: "Junior H",
+  album: "$ad Boyz 4 Life",
+  year: 2021,
+  cover: "portadas/$ad-Boyz-4-Life.jpg",
+  url: "https://open.spotify.com/intl-es/track/54udnumOCHpq4SRpbKleat?si=7f9e64cdac0e49a9"
+},
+{
+  text: "Aún te extraño como antes, y aún te pienso como siempre",
+  song: "Vuelve",
+  artist: "Danny Ocean",
+  album: "54+1",
+  year: 2019,
+  cover: "portadas/54mas1.jpg",
+  url: "https://open.spotify.com/intl-es/track/30zRVzH3FUvbtqYwLvd5fc?si=b993dc2d55064de6"
+},
+{
+  text: "Juro que yo mato por ti",
+  song: "Aquel Nap ZzZz",
+  artist: "Rauw Alejandro",
+  album: "Vice Versa",
+  year: 2021,
+  cover: "portadas/vice-versa.jpg",
+  url: "https://open.spotify.com/intl-es/track/5bQLsyTrUaMQRfr6whwGe5?si=298bfa8a2f8441d4"
+},
+{
+  text: "Noche, te me fuiste, ¿Por qué no te quedaste con nosotros? Como prometiste aquella luna",
+  song: "Aquel Nap ZzZz",
+  artist: "Rauw Alejandro",
+  album: "Vice Versa",
+  year: 2021,
+  cover: "portadas/vice-versa.jpg",
+  url: "https://open.spotify.com/intl-es/track/5bQLsyTrUaMQRfr6whwGe5?si=298bfa8a2f8441d4"
+},
+{
+  text: "No me quedan ganas de empezar otra vez",
+  song: "si te portas bien",
+  artist: "Nsqk",
+  album: "ATP",
+  year: 2024,
+  cover: "portadas/atp.jpg",
+  url: "https://open.spotify.com/intl-es/track/6ZWGocV6dU4xfAtqonBv40?si=ec58088f02fe4cee"
+},
+{
+  text: "Los cigarros no vuelven a prender",
+  song: "si te portas bien",
+  artist: "Nsqk",
+  album: "ATP",
+  year: 2024,
+  cover: "portadas/atp.jpg",
+  url: "https://open.spotify.com/intl-es/track/6ZWGocV6dU4xfAtqonBv40?si=ec58088f02fe4cee"
+},
+{
+  text: "Solo funciona si te portas bien y tú no eres así",
+  song: "si te portas bien",
+  artist: "Nsqk",
+  album: "ATP",
+  year: 2024,
+  cover: "portadas/atp.jpg",
+  url: "https://open.spotify.com/intl-es/track/6ZWGocV6dU4xfAtqonBv40?si=ec58088f02fe4cee"
+},
+{
+  text: "So please, please, please, let me, let me, let me, let me get what I want this time",
+  song: "Please, Please, Please, Let Me Get What I Want - 2011 Remaster",
+  artist: "The Smiths",
+  album: "Louder Than Bombs",
+  year: 1987,
+  cover: "portadas/louder-than-bombs.jpg",
+  url: "https://open.spotify.com/intl-es/track/1oA0tDRFjY5xoNDXuMBGGA?si=c6855e430e2646f1"
+},
+{
+  text: "So for once in my life, let me get what I want, Lord knows, it would be the first time",
+  song: "Please, Please, Please, Let Me Get What I Want - 2011 Remaster",
+  artist: "The Smiths",
+  album: "Louder Than Bombs",
+  year: 1987,
+  cover: "portadas/louder-than-bombs.jpg",
+  url: "https://open.spotify.com/intl-es/track/1oA0tDRFjY5xoNDXuMBGGA?si=c6855e430e2646f1"
+},
+{
+  text: "To all the days we were together, to all the time we were a part, of each other's lives",
+  song: "Heart To Heart",
+  artist: "Mac DeMarco",
+  album: "Here Comes The Cowboy",
+  year: 2019,
+  cover: "portadas/here-comes-the-cowboy.jpg",
+  url: "https://open.spotify.com/intl-es/track/7EAMXbLcL0qXmciM5SwMh2?si=4b2c5f251fdd4365"
+},
+{
+  text: "Te quería preguntar, si todavía piensas en nosotros dos",
+  song: "Pensándote",
+  artist: "Rauw Alejandro, Tainy",
+  album: "Afrodisíaco",
+  year: 2020,
+  cover: "portadas/afrodisiaco.jpg",
+  url: "https://open.spotify.com/intl-es/track/2wnhst8yHA4gKuojAgZedh?si=223d0751b6c349e8"
+},
+{
+  text: "No pido mucho solamente keep it a hundred conmigo",
+  song: "100 Conmigo",
+  artist: "Eladio Carrión",
+  album: "DON KBRN",
+  year: 2025,
+  cover: "portadas/don-kbrn.jpg",
+  url: "https://open.spotify.com/intl-es/track/4sMLOi2r2M2gJeO4qeZB7A?si=6e9a8cf3544642d1"
+},
+{
+  text: "El corazón transforma la canción en su mejor guarida",
+  song: "Contando Ovejas",
+  artist: "WOS",
+  album: "Oscuro Éxtasis",
+  year: 2021,
+  cover: "portadas/oscuro-extasis.jpg",
+  url: "https://open.spotify.com/intl-es/track/47DL8jY6HJD2mlCcTuOWKX?si=e98983d2c6474ebc"
+},
+{
+  text: "Un trago por el miedo a la soledad, un trago por el miedo a la sobriedad",
+  song: "Contando Ovejas",
+  artist: "WOS",
+  album: "Oscuro Éxtasis",
+  year: 2021,
+  cover: "portadas/oscuro-extasis.jpg",
+  url: "https://open.spotify.com/intl-es/track/47DL8jY6HJD2mlCcTuOWKX?si=e98983d2c6474ebc"
+},
+{
+  text: "Wasted times I spent with someone else",
+  song: "Wasted Times",
+  artist: "The Weeknd",
+  album: "My Dear Melancholy,",
+  year: 2018,
+  cover: "portadas/my-dear-melancholy.jpg",
+  url: "https://open.spotify.com/intl-es/track/7DKS0rX27cCEPsK0R6tFWS?si=d3f9cc1a4b504c52"
+},
+{
+  text: "Why can't it just be easy?\nWhy does everybody need me to stay?",
+  song: "Good News",
+  artist: "Mac Miller",
+  album: "Circles",
+  year: 2020,
+  cover: "portadas/circles.jpg",
+  url: "https://open.spotify.com/intl-es/track/1DWZUa5Mzf2BwzpHtgbHPY?si=1dec40a2f1a8494b"
+},
+{
+  text: "Well, maybe I'll lay down for a little, yeah\nInstead of always trying to figure everything out",
+  song: "Good News",
+  artist: "Mac Miller",
+  album: "Circles",
+  year: 2020,
+  cover: "portadas/circles.jpg",
+  url: "https://open.spotify.com/intl-es/track/1DWZUa5Mzf2BwzpHtgbHPY?si=1dec40a2f1a8494b"
+},
+{
+  text: "Fighting for your rights even when you're wrong",
+  song: "Sing About Me, I'm Dying Of Thirst",
+  artist: "Kendrick Lamar",
+  album: "good kid, m.A.A.d city",
+  year: 2012,
+  cover: "portadas/good-kid-maad-city.jpg",
+  url: "https://open.spotify.com/intl-es/track/69pkT3GewmjhQf6vQWcK2L?si=3efd24e929714956"
+},
+{
+  text: "Cúrate, mi niña, con amor del más bonito\nY recuerda siempre que tú eres la medicina",
+  song: "María la Curandera",
+  artist: "Natalia Lafourcade",
+  album: "De Todas las Flores",
+  year: 2022,
+  cover: "portadas/de-todas-las-flores.jpg",
+  url: "https://open.spotify.com/intl-es/track/1xNi99xP8ioHUGXB5HrpNb?si=642ad08649824a42"
+},
+{
+  text: "Lo dejaría todo para volar hasta donde ella está para amarla ahora",
+  song: "contenta,",
+  artist: "Ed Maverick",
+  album: "Eduardo",
+  year: 2021,
+  cover: "portadas/eduardo.jpg",
+  url: "https://open.spotify.com/intl-es/track/1YlXMOHqJVWzFaaQLeekPt?si=b770d220327e4e15"
+},
+{
+  text: "Algo cambió entre tú y yo, y tal vez ya no tiene una solución",
+  song: "Conflicto Unilateral",
+  artist: "zhrain",
+  album: "Conflicto Unilateral",
+  year: 2022,
+  cover: "portadas/la-peor-clase-de-persona.jpg",
+  url: "https://open.spotify.com/intl-es/track/0lHp9RHBx4z8OwAXYDiCLa?si=fed48faaa61f4bef"
+},
+{
+  text: "No siento motivación de hacer lo que me hace feliz",
+  song: "Muerto",
+  artist: "zhrain",
+  album: "Veintiuno",
+  year: 2024,
+  cover: "portadas/veintiuno.jpg",
+  url: "https://open.spotify.com/intl-es/track/47I7lW7UkBO0unwDtYeUiZ?si=5a19f581ec1540fa"
+},
+{
+  text: "Me sentía menos muerto cuando me quería morir",
+  song: "Muerto",
+  artist: "zhrain",
+  album: "Veintiuno",
+  year: 2024,
+  cover: "portadas/veintiuno.jpg",
+  url: "https://open.spotify.com/intl-es/track/47I7lW7UkBO0unwDtYeUiZ?si=5a19f581ec1540fa"
+},
 
 
 ];
